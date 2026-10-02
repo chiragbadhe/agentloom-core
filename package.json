@@ -1,6 +1,6 @@
 {
   "name": "@agentloom/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AgentLoom primitives for building AI agents: provider abstraction (OpenAI, Anthropic, Gemini, Ollama), tools, memory, planning, and a production-hardened agent loop.",
   "keywords": [
     "agentloom",

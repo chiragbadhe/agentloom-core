@@ -68,15 +68,15 @@ works on providers with no native JSON-schema enforcement.
 
 | Guide                                              | Contents                                                                 |
 | -------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Getting started](docs/getting-started.md)         | Install, keys, first agent, running the examples                         |
-| [Agent](docs/agent.md)                             | Config reference, run options, limits, results, stop reasons             |
-| [Tools](docs/tools.md)                             | Defining tools, registry, execution modes, policies, approval, built-ins |
-| [Providers](docs/providers.md)                     | Built-in providers, model references, custom providers, HTTP layer       |
-| [Memory](docs/memory.md)                           | Conversation windowing, summarization, long-term recall                  |
-| [Streaming & events](docs/streaming-and-events.md) | Stream API, event catalogue, hooks, logging                              |
-| [Planning](docs/planning.md)                       | Plan generation, `update_plan`, custom planners                          |
-| [Errors](docs/errors.md)                           | Error hierarchy, codes, retryability, recovery strategies                |
-| [Testing](docs/testing.md)                         | Scripted providers, offline testing, injection points                    |
+| [Getting started](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/getting-started.md)         | Install, keys, first agent, running the examples                         |
+| [Agent](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/agent.md)                             | Config reference, run options, limits, results, stop reasons             |
+| [Tools](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/tools.md)                             | Defining tools, registry, execution modes, policies, approval, built-ins |
+| [Providers](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/providers.md)                     | Built-in providers, model references, custom providers, HTTP layer       |
+| [Memory](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/memory.md)                           | Conversation windowing, summarization, long-term recall                  |
+| [Streaming & events](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/streaming-and-events.md) | Stream API, event catalogue, hooks, logging                              |
+| [Planning](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/planning.md)                       | Plan generation, `update_plan`, custom planners                          |
+| [Errors](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/errors.md)                           | Error hierarchy, codes, retryability, recovery strategies                |
+| [Testing](https://github.com/chiragbadhe/agentloom-core/blob/main/docs/testing.md)                         | Scripted providers, offline testing, injection points                    |
 
 Runnable examples live in [`examples/`](examples), numbered in reading order:
 
